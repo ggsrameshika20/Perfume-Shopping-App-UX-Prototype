@@ -52,29 +52,8 @@ The prototype includes screens and interactions for:
 
 The application was designed and prototyped using Figma.
 
-🔗 [View Interactive Figma Prototype](PASTE_YOUR_FIGMA_LINK_HERE)
+🔗 [View Interactive Figma Prototype](https://www.figma.com/design/JP0QTWannabi5Sg05jk9so/perfume-shop?node-id=41-383&t=TCMgj2zGif0xrCLD-1)
 
-## 📸 Screenshots
-
-### Home Screen
-
-![Home Screen](Screenshots/01-home.png)
-
-### Categories
-
-![Categories](Screenshots/02-categories.png)
-
-### Product Details
-
-![Product Details](Screenshots/03-product-details.png)
-
-### Shopping Cart
-
-![Shopping Cart](Screenshots/04-cart.png)
-
-### Checkout
-
-![Checkout](Screenshots/05-checkout.png)
 
 ## 🛠️ Tools & Technologies
 
